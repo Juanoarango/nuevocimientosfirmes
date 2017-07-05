@@ -1,0 +1,11 @@
+base de datos: cimientos
+usuario:root
+contra:(sin contraseña)
+
+/////////////////////////////
+
+wordpress
+
+titulo del sitio: cimientosfirmes
+nombre de usuario: juanarango
+contraseña: 4G5mvfwCP9SW99U2Dj
